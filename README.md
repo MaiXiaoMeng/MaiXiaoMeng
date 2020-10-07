@@ -12,7 +12,7 @@ I want to be an interesting person and create something that can be remembered b
 
 #### Languages and Frameworks
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=MaiXiaoMeng&count_private=true&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<img align="right" width="55%" src="https://github-readme-stats.vercel.app/api?username=MaiXiaoMeng&count_private=true&show_icons=true&icon_color=0078e7&title_color=0078e7">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -22,7 +22,7 @@ I want to be an interesting person and create something that can be remembered b
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-<code><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiXiaoMeng&layout=compact"></code>
+<code><img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiXiaoMeng&layout=compact"></code>
 
 #### Tools
 
