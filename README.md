@@ -1,47 +1,36 @@
-<h3 align="center">你好，欢迎来到我的Github主页</h3>
-<p align="center">
+### Hi there, I'm [MaiXiaoMeng](https://github.com/MaiXiaoMeng). 👋
 
-<img align="center" src="https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3" />
-  <img align="center" src="https://img.shields.io/badge/-JavaScript-%23CC6699?style=flat-square&logo=JavaScript&logoColor=ffffff" />
-  <img align="center" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python" />
-  <img align="center" src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb" />
+I am a ~~learning student~~ goof off software engineers from China. I like open source and all interesting things and want to try to do it.
 
-</p>
+I want to be an interesting person and create something that can be remembered by others.
 
-## 💡About me
+- 🔭 I’m currently working on [...](https://github.com/MaiXiaoMeng), yeah, you can find them directly below.
+- 🌱 I'm currently learning the operation of Amazon, and Want to learn everything interesting.
+- ❤️ I want to be a person who can describe your life at your funeral.
+- 🤔 I like eating 🍮, raising 😸, playing 🎮, sleeping in 🛌 and watching 📺 [ACGN](<https://en.wikipedia.org/wiki/ACG_(subculture)>).
+- 💬 Be free to ask me about anything [here](https://github.com/MaiXiaoMeng/MaiXiaoMeng/issues).
 
-一位亚马逊运营兼摸鱼工程师，也是一条很咸的咸鱼。
+#### Languages and Frameworks
 
-## 📃 License
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=MaiXiaoMeng&count_private=true&show_icons=true&icon_color=0078e7&title_color=0078e7">
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
-```
-## 📕Knowledge
-Copyright (c) 2020, SunRelease.
+<code><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiXiaoMeng&layout=compact"></code>
 
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
+#### Tools
 
-http://www.apache.org/licenses/LICENSE-2.0
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/macos/macos.png"></code>
 
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-```
+You can find how to contact me in the sidebar. You can follow me to find something more interesting.
 
-<p>
-  <a href="https://github.com/MaiXiaoMeng">
-    <img width="50%" align="right"  alt="MaiXiaoMeng's github stats" src="https://github-readme-stats.vercel.app/api?username=MaiXiaoMeng&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" />
-  </a>
-  <code><img width="13%"  src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <br />
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/google_chrome/google_chrome-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="13%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
-  <br />
-
-</p>
+If you like my projects, you can buy me a 🍉/🍔/🍟/🍦/🥤/🍰 at [Patreon](https://www.patreon.com/MaiXiaoMeng)
